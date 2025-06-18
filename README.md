@@ -164,9 +164,10 @@ The results will be saved in a file:
 mercadocar_produtos.csv
 ```
 ---
-👩‍💻 Author
+### 👩‍💻 Author
 Developed with 💙 and a lot of patience by Marcela Nako
-🔗 [in/marcelaabe-alvim/] | 💼 [https://github.com/maabenako?tab=repositories]
+🔗 [in/marcelaabe-alvim/] | 
+💼 [https://github.com/maabenako?tab=repositories]
 
 ---
 ⚠️ Notes
