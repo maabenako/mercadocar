@@ -170,7 +170,7 @@ Developed with 💙 and a lot of patience by Marcela Nako
 💼 [https://github.com/maabenako?tab=repositories]
 
 ---
-⚠️ Notes
+### ⚠️ Notes
 This scraper simulates human-like navigation and respects request limits to avoid blocking.
 All data is collected via publicly available endpoints used by the website's front-end.
 This project can serve as a foundation for ETL pipelines, inventory monitoring, pricing analysis, or automotive market research.
