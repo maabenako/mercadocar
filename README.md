@@ -86,6 +86,8 @@ Este scraper simula navegação real, respeitando limites de requisições para 
 Os dados foram coletados via requisições públicas acessadas pelo próprio navegador.
 Esse projeto pode servir como base para ETL, análise de estoque, monitoramento de preços ou estudos de mercado no setor automotivo.
 
+# English:
+
 # 🚗 MercadoCar Scraper – Automotive Products
 
 This project is an **advanced product scraper** built in **Node.js**, designed to extract data from **MercadoCar**, a Brazilian e-commerce platform for car parts and accessories.
@@ -158,9 +160,9 @@ node mercadocar_scraper.js
 ### 📁 Output
 The results will be saved in a file:
 
-bash
+```bash
 mercadocar_produtos.csv
-
+```
 ---
 👩‍💻 Author
 Developed with 💙 and a lot of patience by Marcela Nako
